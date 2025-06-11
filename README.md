@@ -1,5 +1,4 @@
-![Banner](Music Genre Recommendation System.png)
-
+![Banner](images/banner.png)
 # 🎵 Music Genre Recommendation System
 
 This project is a simple machine learning model that predicts a user's preferred music genre based on their age and gender. It uses a Decision Tree Classifier from the `scikit-learn` library.
