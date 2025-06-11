@@ -1,3 +1,4 @@
+![Banner](banner.png)
 
 # 🎵 Music Genre Recommendation System
 
